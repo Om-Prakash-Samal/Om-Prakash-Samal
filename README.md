@@ -1,23 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Om-Prakash-Samal/Om-Prakash-Samal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there👋, I'm Om Prakash Samal
 
-Here are some ideas to get you started:
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
 ### 🛠 Languages & Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,git,linux,mysql,powerbi" />
-  </a>
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,git,linux,mysql,powerbi)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight&v=1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight&v=1" />
 </p>
+
+</div>
