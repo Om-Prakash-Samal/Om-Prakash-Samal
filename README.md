@@ -7,7 +7,7 @@
 ---
 
 ### 🛠 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,git,linux,mysql,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,git,linux,mysql,pbi)](https://skillicons.dev)
 
 ---
 
