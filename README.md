@@ -14,8 +14,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight&v=1" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight&v=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
 </p>
+
 
 </div>
