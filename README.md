@@ -18,5 +18,9 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
 </p>
 
+---
+
+### 👾 Contribution Game
+![Pacman eating contributions](https://raw.githubusercontent.com/Om-Prakash-Samal/Om-Prakash-Samal/output/github-contribution-grid-snake.svg)
 
 </div>
