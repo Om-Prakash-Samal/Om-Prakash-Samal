@@ -20,7 +20,7 @@
 
 ---
 
-### 🕹️ Pac-Man Contribution Game
+### 🕹️ Snake Contribution Game
 ![Pacman](https://raw.githubusercontent.com/Om-Prakash-Samal/Om-Prakash-Samal/output/github-contribution-grid-snake.svg)
 
 </div>
