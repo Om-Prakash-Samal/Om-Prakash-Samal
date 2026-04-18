@@ -23,4 +23,11 @@
 ### 🕹️ Snake Contribution Game
 ![Pacman](https://raw.githubusercontent.com/Om-Prakash-Samal/Om-Prakash-Samal/output/github-contribution-grid-snake.svg)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Om-Prakash-Samal&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Om-Prakash-Samal?label=Followers&style=social" alt="Followers" />
+</p>
+
 </div>
