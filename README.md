@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi there👋, I'm Om Prakash Samal
+<div align="center">
+
+# <img src="https://capsule-render.vercel.app/type=waving&color=00f2ff&height=200&section=header&text=OM%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" />
+
+</div>
 
  
 
