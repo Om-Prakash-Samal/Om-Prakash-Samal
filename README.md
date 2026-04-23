@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/type=waving&color=00f2ff&height=200&section=header&text=OM%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=OM%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Om Prakash Samal" />
 
-<br/>
+</div>
 
  
 
