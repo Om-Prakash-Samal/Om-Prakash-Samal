@@ -12,11 +12,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight" />
-</p>
 
-<br/>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
