@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=OM%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Om Prakash Samal" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=Om%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Om Prakash Samal" />
 
 <br/>
 
@@ -13,8 +13,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight" />
 </p>
 
 <br/>
