@@ -2,28 +2,29 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=200&section=header&text=OM%20PRAKASH%20SAMAL&fontSize=70&animation=fadeIn&fontAlignY=40" alt="Om Prakash Samal" />
 
-</div>
-
- 
-
----
+<br/>
 
 ### 🛠 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,git,linux,mysql,pbi)](https://skillicons.dev)
 
+<br/>
+
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight" />
 </p>
+
+<br/>
 
 ---
 
-### 🕹️ Snake Contribution Game
-![Pacman](https://raw.githubusercontent.com/Om-Prakash-Samal/Om-Prakash-Samal/output/github-contribution-grid-snake.svg)
+### 🕹️ Contribution Game
+<img src="https://raw.githubusercontent.com/Om-Prakash-Samal/Om-Prakash-Samal/output/github-contribution-grid-snake.svg" alt="Pacman" />
+
+<br/>
 
 ---
 
