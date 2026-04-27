@@ -10,10 +10,11 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight" />
-</p>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=dark&hide_border=false" height="170" alt="Om Prakash Samal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=dark&hide_border=false" height="170" alt="Top Languages" />
+</div>
 
 ---
 
