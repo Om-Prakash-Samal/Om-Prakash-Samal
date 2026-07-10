@@ -13,10 +13,10 @@
 
 <p align="left">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Om-Prakash-Samal&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
   
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_ign_ext=true" alt="Top Languages" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Prakash-Samal&layout=donut&theme=tokyonight&hide_ign_ext=true" alt="Top Languages" height="195" />
 </p>
 
 ---
