@@ -9,10 +9,14 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Om-Prakash-Samal&theme=tokyonight" height="150"/>
+## GitHub Stats
+
+<p align="left">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="195" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=donut&theme=tokyonight&hide_ign_ext=true" alt="Top Languages" height="195" />
 </p>
 
 ---
